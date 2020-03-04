@@ -13,14 +13,14 @@ def print_first_directors_movie_titles
 
   while i < spielberg.length
     movies = spielberg[:movies]
-    j = 0
+    # j = 0
     
-    while j < movies.length
-      title = movies[j][:title]
-      puts title
+    # while j < movies.length
+    #   title = movies[j][:title]
+    #   puts title
       
-      j += 1
-    end
+    #   j += 1
+    # end
     
     i += 1
   end
