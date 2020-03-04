@@ -24,6 +24,6 @@ def print_first_directors_movie_titles
     
     i += 1
   end
-  uts movies[0][:title]
-  p
+  
+  puts movies[0][:title]
 end
