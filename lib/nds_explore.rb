@@ -26,4 +26,9 @@ def print_first_directors_movie_titles
   end
   
   puts movies[0][:title]
+  puts movies[1][:title]
+  puts movies[2][:title]
+  puts movies[3][:title]
+  puts movies[4][:title]
+  puts movies[5][:title]
 end
