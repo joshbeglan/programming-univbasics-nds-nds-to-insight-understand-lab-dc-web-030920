@@ -17,12 +17,11 @@ def print_first_directors_movie_titles
     
     while j < movies.length
       title = movies[j][:title]
+      puts title
       
       j += 1
     end
     
     i += 1
   end
-  
-  puts title
 end
